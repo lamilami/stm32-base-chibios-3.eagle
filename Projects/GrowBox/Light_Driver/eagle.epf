@@ -1,0 +1,33 @@
+[Eagle]
+Version="06 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="d:/Work/Eagle/Libraries/STM32F0.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/adafruit.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/con-headers-jp.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/my-library.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/nrf24l01.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/pinhead-2.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/rc-master-smd.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/rc-master.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/v-reg-2.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/v-reg-3.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/v-reg-lowdrop.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/supply1.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="332 293 931 692"
+State=3
+Number=0
+
+[Desktop]
+Screen="1280 1024"
+Window="Win_1"

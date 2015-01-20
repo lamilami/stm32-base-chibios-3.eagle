@@ -1,0 +1,23 @@
+Partlist exported from C:/Work/Eagle/Projects/STM32F050F Base Wireless/STM32F050F Base.sch at 16.12.2013 12:14:25
+
+Part Value                Device                Package         Description                                      
+C1   4.7uF                C_1206                C1206           NON-POLARIZED CAP                                
+C2   100uF 20V            CP_7343               C7343/T         POLARIZED CAP                                    
+C3   330uF 6.3V           CP_7343               C7343/T         POLARIZED CAP                                    
+C4   0.01uf               C_0805                C0805           NON-POLARIZED CAP                                
+C5   1uf                  C_0805                C0805           NON-POLARIZED CAP                                
+C6   0.1uF                C_0805                C0805           NON-POLARIZED CAP                                
+C7   0.1uF                C_0805                C0805           NON-POLARIZED CAP                                
+C8   4.7uF                C_1206                C1206           NON-POLARIZED CAP                                
+C9                        C_1206                C1206           NON-POLARIZED CAP                                
+J1                        JACK-PLUG0            SPC4077         DC POWER JACK                                    
+L1   L_0603               L_0603                L0603           INDUCTOR                                         
+R1                        R_1206                R1206           RESISTOR                                         
+R2                        R_1206                R1206           RESISTOR                                         
+SWD                       PINHD-1X05_2.54-90°-S 1X05/90-S       PIN HEADER                                       
+U$1  10MQ040              10MQ040               SMA             SCHOTTKY                                         
+U$2  LM2596S              LM2596S               TO263-5         LM2596                                           
+U$3  STM32F050F_BASE_MINI STM32F050F_BASE_MINI  STM32_BASE_MINI                                                  
+U$4  STM32F050F4P6        STM32F050F4P6         TSSOP20         STM32F050F4P6                                    
+U$5  NRF24L01+            NRF24L01+             NRF24L01+       NRF24L01+ wireless data transmission module 2.4G 
+U$6  30WQ03               30WQ03                TO252                                                            

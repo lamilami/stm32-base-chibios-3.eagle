@@ -1,0 +1,41 @@
+[Eagle]
+Version="07 02 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="d:/Work/Eagle/Libraries/Ava.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/DS1820.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/LM2594.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/Pot.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/STM32F0.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/abracon.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/acs711.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/adafruit.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/bourns.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/con-headers-jp.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/lm75.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/microbuilder.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/my-library.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/nrf24l01.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/pinhead-2.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/rc-master-smd.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/rc-master.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/resistor-bourns.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/v-reg-2.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/v-reg-3.lbr"
+UsedLibrary="d:/Work/Eagle/Libraries/v-reg-lowdrop.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="651 378 1250 777"
+State=1
+Number=0
+
+[Desktop]
+Screen="1920 1200"
+Window="Win_1"
