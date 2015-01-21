@@ -1,0 +1,22 @@
+[Eagle]
+Version="06 06 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-6.5.0/lbr/diode.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.5.0/lbr/transistor-fet.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.5.0/lbr/SparkFun/SparkFun-PowerIC.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="492 231 1091 630"
+State=1
+Number=0
+
+[Desktop]
+Screen="1600 900"
+Window="Win_1"
